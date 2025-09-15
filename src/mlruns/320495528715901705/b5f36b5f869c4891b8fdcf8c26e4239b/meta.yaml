@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/b5f36b5f869c4891b8fdcf8c26e4239b/artifacts
+deleted_time: 1757932997279
+end_time: 1757932880588
+entry_point_name: ''
+experiment_id: '320495528715901705'
+lifecycle_stage: deleted
+run_id: b5f36b5f869c4891b8fdcf8c26e4239b
+run_name: BestModelRegistration
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757932880515
+status: 4
+tags: []
+user_id: sharj

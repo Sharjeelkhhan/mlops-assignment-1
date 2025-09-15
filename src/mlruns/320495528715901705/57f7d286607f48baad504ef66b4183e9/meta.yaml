@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/57f7d286607f48baad504ef66b4183e9/artifacts
+end_time: 1757932384133
+entry_point_name: ''
+experiment_id: '320495528715901705'
+lifecycle_stage: active
+run_id: 57f7d286607f48baad504ef66b4183e9
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757932381016
+status: 3
+tags: []
+user_id: sharj

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/models/m-45800afa0fe748e4a5c8d55325f7d592/artifacts
+creation_timestamp: 1757932877582
+experiment_id: '320495528715901705'
+last_updated_timestamp: 1757932880467
+model_id: m-45800afa0fe748e4a5c8d55325f7d592
+model_type: null
+name: svm
+source_run_id: cd6ef2736da043d98e43e4ed03fd0cb0
+status: 2
+status_message: null

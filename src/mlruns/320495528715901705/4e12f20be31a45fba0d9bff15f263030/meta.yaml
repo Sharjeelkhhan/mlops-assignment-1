@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/4e12f20be31a45fba0d9bff15f263030/artifacts
+end_time: 1757932922000
+entry_point_name: ''
+experiment_id: '320495528715901705'
+lifecycle_stage: active
+run_id: 4e12f20be31a45fba0d9bff15f263030
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757932918144
+status: 3
+tags: []
+user_id: sharj

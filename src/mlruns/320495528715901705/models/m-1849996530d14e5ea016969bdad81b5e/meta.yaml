@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/models/m-1849996530d14e5ea016969bdad81b5e/artifacts
+creation_timestamp: 1757932381198
+experiment_id: '320495528715901705'
+last_updated_timestamp: 1757932384116
+model_id: m-1849996530d14e5ea016969bdad81b5e
+model_type: null
+name: random_forest
+source_run_id: 57f7d286607f48baad504ef66b4183e9
+status: 2
+status_message: null

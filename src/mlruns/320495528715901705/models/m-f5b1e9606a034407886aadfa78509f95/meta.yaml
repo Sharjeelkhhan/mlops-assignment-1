@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sharj/OneDrive/Documents/7th_sem/Mlops/mlops-assignment-1/src/mlruns/320495528715901705/models/m-f5b1e9606a034407886aadfa78509f95/artifacts
+creation_timestamp: 1757932870413
+experiment_id: '320495528715901705'
+last_updated_timestamp: 1757932873874
+model_id: m-f5b1e9606a034407886aadfa78509f95
+model_type: null
+name: logistic_regression
+source_run_id: 1ca0ec5b5b554dc0b37b0d9668c1315f
+status: 2
+status_message: null
